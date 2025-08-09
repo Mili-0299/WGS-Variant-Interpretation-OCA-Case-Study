@@ -17,7 +17,7 @@ This project focuses on analyzing whole genome sequencing (WGS) data to interpre
 
 ## Results
 - Total variants found in the TYR gene: *[insert number from output]*.
-- Pathogenic or likely pathogenic variants identified: *[insert number]*.
+- Pathogenic or likely pathogenic variants identified: 26425
 - The results provide insights into clinically relevant TYR gene variants implicated in OCA.
 
 ## How to Run
