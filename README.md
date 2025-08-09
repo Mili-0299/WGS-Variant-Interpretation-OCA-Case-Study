@@ -2,10 +2,6 @@
 # WGS Variant Interpretation of OCA Rare Condition Case Study
 
 ## Project Aim
-This project focuses on analyzing whole genome sequencing (WGS) variants in the TYR gene associated with Oculocutaneous Albinism (OCA). Using public ClinVar data, the goal is to identify and interpret pathogenic variants to support clinical and genetic research applications.
-# WGS Variant Interpretation of OCA Rare Condition Case Study
-
-## Project Aim
 This project focuses on analyzing whole genome sequencing (WGS) data to interpret genetic variants associated with Oculocutaneous Albinism (OCA), a rare genetic disorder. Specifically, variants in the **TYR** gene are filtered and classified based on clinical significance from the ClinVar database.
 
 ## Data Source
