@@ -28,7 +28,7 @@ This project focuses on analyzing whole genome sequencing (WGS) data to interpre
 
 ## Tools and Libraries
 - Python (pandas, wget)
-- Google Colab (optional, for cloud execution)
+- Google Colab
 
 ---
 
